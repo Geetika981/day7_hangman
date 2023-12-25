@@ -15,7 +15,7 @@ for i in word:
     ans.append("_ ")
 
 
-print(' '.join(ans))
+# print(' '.join(ans))
 
 
 print("\n")
